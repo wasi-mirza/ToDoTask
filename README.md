@@ -20,7 +20,7 @@ It is a simple React Native application to note down the tasks, make some tasks 
 
 ### Setup
 
-* Clone this repo `git clone https://github.com/jishilkp/ToDoApp.git`
+* Clone this repo `git clone https://github.com/wasi-mirza/ToDoApp.git`
 * `cd ToDoApp`
 * Run `npm install`
 * Run `npm start`
